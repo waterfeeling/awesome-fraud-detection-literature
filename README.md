@@ -6,15 +6,19 @@ Benedek Rozemberczki](https://github.com/benedekrozemberczki)
 ### According to data structures
 #### Graph-based
 ##### Papers
-- Uncovering Insurance Fraud Conspiracy with Network Learning (SIGIR 2019)
+1. Uncovering Insurance Fraud Conspiracy with Network Learning (SIGIR 2019)
   - Chen Liang, Ziqi Liu, Bin Liu, Jun Zhou, Xiaolong Li, Shuang Yang, Yuan Qi
   - Ant Financial
   - [Paper](https://dl.acm.org/citation.cfm?id=3331372)
 ##### Major References
-- node2vec: Scalable feature learning for networks (KDD 2016)
+1.1. node2vec: Scalable feature learning for networks (KDD 2016)
   - Aditya Grover, Jure Leskovec
   - Stanford University
   - [Paper](https://arxiv.org/pdf/1607.00653.pdf)
+1.2. GeniePath: Graph Neural Networks with Adaptive Receptive Paths
+  - Ziqi Liu, Chaochao Chen, Longfei Li, Jun Zhou, Xiaolong Li, Le Song
+  - Ant Financial, Georgia Institute of Technology
+  - [Paper](https://arxiv.org/pdf/1802.00910v1.pdf)
 
 
 #### Structured
