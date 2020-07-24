@@ -1,6 +1,6 @@
 # awesome-fraud-detection-literature
-Academic papers related to fraud detection, inspired by (Awesome Fraud Detection Research Papers.)[https://github.com/benedekrozemberczki/awesome-fraud-detection-papers/blob/master/README.md] by (
-Benedek Rozemberczki)[https://github.com/benedekrozemberczki]
+Academic papers related to fraud detection, inspired by [Awesome Fraud Detection Research Papers.](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers/blob/master/README.md) by [
+Benedek Rozemberczki](https://github.com/benedekrozemberczki)
 
 ## Literatures
 ### According to data structures
@@ -35,7 +35,6 @@ Benedek Rozemberczki)[https://github.com/benedekrozemberczki]
 ## Typycal Datasets
 
 ## Reference
-- (Awesome Fraud Detection Research Papers.)[https://github.com/benedekrozemberczki/awesome-fraud-detection-papers/blob/master/README.md]
+- [Awesome Fraud Detection Research Papers.](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers/blob/master/README.md)
 
-[]:
 
