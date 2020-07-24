@@ -9,12 +9,12 @@ Benedek Rozemberczki)[https://github.com/benedekrozemberczki]
 - Uncovering Insurance Fraud Conspiracy with Network Learning (SIGIR 2019)
   - Chen Liang, Ziqi Liu, Bin Liu, Jun Zhou, Xiaolong Li, Shuang Yang, Yuan Qi
   - Ant Financial
-  - (Paper)[https://dl.acm.org/citation.cfm?id=3331372]
+  - [Paper](https://dl.acm.org/citation.cfm?id=3331372)
 ##### Major References
 - node2vec: Scalable feature learning for networks (KDD 2016)
   - Aditya Grover, Jure Leskovec
   - Stanford University
-  - (Paper)[https://arxiv.org/pdf/1607.00653.pdf]
+  - [Paper](https://arxiv.org/pdf/1607.00653.pdf)
 
 
 #### Structured
