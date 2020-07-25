@@ -3,7 +3,7 @@ Academic papers related to fraud detection, inspired by [Awesome Fraud Detection
 Benedek Rozemberczki](https://github.com/benedekrozemberczki)
 
 ## Literatures
-1. Uncovering Insurance Fraud Conspiracy with Network Learning (SIGIR 2019)
+- 1. Uncovering Insurance Fraud Conspiracy with Network Learning (SIGIR 2019)
   - Chen Liang, Ziqi Liu, Bin Liu, Jun Zhou, Xiaolong Li, Shuang Yang, Yuan Qi
   - Ant Financial
   - [Paper](https://dl.acm.org/citation.cfm?id=3331372)
@@ -11,7 +11,7 @@ Benedek Rozemberczki](https://github.com/benedekrozemberczki)
   - Data structure: graph-based
   - Mining scheme(s): graph-neural-network
   
-2. Spatio-Temporal Attention-Based Neural Network for Credit Card Fraud Detection (AAAI 2020)
+- 2. Spatio-Temporal Attention-Based Neural Network for Credit Card Fraud Detection (AAAI 2020)
   - Dawei Cheng, Sheng Xiang, Chencheng Shang, Yiyi Zhang, Fangzhou Yang, Liqing Zhang
   - Shanghai Jiao Tong University
   - [Paper](https://aaai.org/ojs/index.php/AAAI/article/view/5371/5227)
@@ -19,7 +19,7 @@ Benedek Rozemberczki](https://github.com/benedekrozemberczki)
   - Data structure: stuctured-time-series
   - Mining scheme(s): neural-network
   
-3. Feature engineering strategies for credit card fraud detection (Expert Systems With Applications 2016)
+- 3. Feature engineering strategies for credit card fraud detection (Expert Systems With Applications 2016)
   - Alejandro Correa Bahnsen, Djamila Aouada, Aleksandar Stojanovic, Björn Ottersten
   - University of Luxembourg
   - [Paper](https://albahnsen.github.io/files/Feature%20Engineering%20Strategies%20for%20Credit%20Card%20Fraud%20Detection_published.pdf)
@@ -27,7 +27,7 @@ Benedek Rozemberczki](https://github.com/benedekrozemberczki)
   - Data structure: stuctured-time-series
   - Mining scheme(s): logistic-regression, decision-tree, boosting-machine
   
-4. Consolidated Tree Classifier Learning in a Car Insurance Fraud Detection Domain with Class Imbalance (ICAPR 2005)
+- 4. Consolidated Tree Classifier Learning in a Car Insurance Fraud Detection Domain with Class Imbalance (ICAPR 2005)
   - Jesús M. Pérez, Javier Muguerza, Olatz Arbelaitz, Ibai Gurrutxaga, and José I. Martín
   - University of the Basque Country
   - [Paper](https://sci2s.ugr.es/keel/pdf/specific/congreso/perez_consolidated_2005.pdf)
