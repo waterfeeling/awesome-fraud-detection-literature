@@ -3,7 +3,7 @@ Academic papers related to fraud detection, inspired by [Awesome Fraud Detection
 Benedek Rozemberczki](https://github.com/benedekrozemberczki)
 
 ## Literatures
-- 1. Uncovering Insurance Fraud Conspiracy with Network Learning (SIGIR 2019)
+- ### Uncovering Insurance Fraud Conspiracy with Network Learning (SIGIR 2019)
   - Chen Liang, Ziqi Liu, Bin Liu, Jun Zhou, Xiaolong Li, Shuang Yang, Yuan Qi
   - Ant Financial
   - [Paper](https://dl.acm.org/citation.cfm?id=3331372)
