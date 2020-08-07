@@ -3,6 +3,17 @@ Academic papers related to fraud detection, inspired by [Awesome Fraud Detection
 Benedek Rozemberczki](https://github.com/benedekrozemberczki)
 
 ## Literatures
+- ### Risk Guarantee Prediction in Networked-Loans (IJCAI 2020)
+  - 
+
+- ### Auto-encoder based Graph Convolutional Networks for Online Financial Anti-fraud (CIFEr 2019)
+  - Lv, Le, Jianbo Cheng, Nanbo Peng, Min Fan, Dongbin Zhao, and Jianhong Zhang
+  - JD, CAS, BAACI
+  - [Paper](https://ieeexplore.ieee.org/document/8759109/)
+  - Application area(s): finance-fraud
+  - Data structure: graph-based
+  - Minning scheme(s): graph-neural-network
+  
 - ### Anti-money laundering in bitcoin: Experimenting with graph convolutional networks for financial forensics." (arXiv preprint)
   - Weber, Mark, Giacomo Domeniconi, Jie Chen, Daniel Karl I. Weidele, Claudio Bellei, Tom Robinson, and Charles E. Leiserson
   - MIT, IBM, Elliptic
@@ -64,10 +75,12 @@ Benedek Rozemberczki](https://github.com/benedekrozemberczki)
 
 ## Typycal Datasets
 ### Structured
+- ### IEEE-CIS Fraud Detection
+  - [Data](https://www.kaggle.com/c/ieee-fraud-detection/overview)
 
 ### Graph
 - ### Elliptic Data Set
-  - [DataSet]https://www.kaggle.com/ellipticco/elliptic-data-set
+  - [Data](https://www.kaggle.com/ellipticco/elliptic-data-set)
 
 ## Reference
 - [Awesome Fraud Detection Research Papers.](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers/blob/master/README.md)
