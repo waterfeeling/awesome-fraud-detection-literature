@@ -3,6 +3,14 @@ Academic papers related to fraud detection, inspired by [Awesome Fraud Detection
 Benedek Rozemberczki](https://github.com/benedekrozemberczki)
 
 ## Literatures
+- ### Anti-money laundering in bitcoin: Experimenting with graph convolutional networks for financial forensics." (arXiv preprint)
+  - Weber, Mark, Giacomo Domeniconi, Jie Chen, Daniel Karl I. Weidele, Claudio Bellei, Tom Robinson, and Charles E. Leiserson
+  - MIT, IBM, Elliptic
+  - [Paper](https://arxiv.org/pdf/1908.02591.pdf)
+  - Application area(s): bitcoin-anti-money-laundering
+  - Data structure: graph-based
+  - Mining scheme(s): graph-neural-network
+  
 - ### Uncovering Insurance Fraud Conspiracy with Network Learning (SIGIR 2019)
   - Chen Liang, Ziqi Liu, Bin Liu, Jun Zhou, Xiaolong Li, Shuang Yang, Yuan Qi
   - Ant Financial
@@ -55,6 +63,11 @@ Benedek Rozemberczki](https://github.com/benedekrozemberczki)
   - [Paper](https://arxiv.org/pdf/1802.00910v1.pdf)
 
 ## Typycal Datasets
+### Structured
+
+### Graph
+- ### Elliptic Data Set
+  - [DataSet]https://www.kaggle.com/ellipticco/elliptic-data-set
 
 ## Reference
 - [Awesome Fraud Detection Research Papers.](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers/blob/master/README.md)
